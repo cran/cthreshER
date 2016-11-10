@@ -1,0 +1,10 @@
+7b2cef48231a83d1ac16393fedb95a8a *DESCRIPTION
+c928f9fb88198a371e2fda00bd0d4b5c *NAMESPACE
+0025d4e85b79392289897d81314828e0 *R/cterFit.R
+04d31c9b6a89278233ed7fd322ecd3b6 *R/cterSimData.R
+f40e3ad47a76d24a2e455df4ffe0ff6a *R/cterTest.R
+cd395a77075f04deef27d66d2d87ae84 *data/data_bbsalaries.rda
+996e551fbf53fefbeb5ee87e084471eb *man/cterFit.Rd
+74cd6be20dcaf73383d0807705a9e44b *man/cterSimData.Rd
+1388f7b5b92903af855e7557b80bc54a *man/cterTest.Rd
+478c7c1d76bf56aa0a3059eeccad2710 *man/data_bbsalaries.Rd
